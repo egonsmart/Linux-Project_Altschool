@@ -1,4 +1,4 @@
-# Linux-Project_Altschool
+Linux-Project_Altschool
 Linux assigment 
 Create a User
 I created a user named "pastor" using the useradd command: sudo useradd  pastor
